@@ -1,6 +1,7 @@
 ### Ooi! Eu sou a Priscila Mariano e esse é o meu GitHub! :relaxed:
 
 :mortar_board: Formada como arquiteta e urbanista, apaixonanda pela tecnologia e por esse motivo, em transição de carreira;
+
 :world_map: São Paulo / SP - Brasil;
 :sparkles: Tudo que envolve a parte criativa me fascina e me faz querer continuar;
 :nerd_face: Estudante de Web design e Front End pela Udemy, Alura, Origamid e DIO;
