@@ -3,9 +3,13 @@
 :mortar_board: Formada como arquiteta e urbanista, apaixonanda pela tecnologia e por esse motivo, em transição de carreira;
 
 :world_map: São Paulo / SP - Brasil;
+
 :sparkles: Tudo que envolve a parte criativa me fascina e me faz querer continuar;
+
 :nerd_face: Estudante de Web design e Front End pela Udemy, Alura, Origamid e DIO;
+
 :computer: Procurando oportunidades nas áreas de Web design e Front End;
+
 👫:dog2: Apaixonada na vida de casada e na filha de 4 patas;
 
 
