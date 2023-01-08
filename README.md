@@ -13,18 +13,10 @@
 👫:dog2: Apaixonada na vida de casada e na filha de 4 patas;
 
 
-
-<!--
-**Priscila-Mariano/Priscila-Mariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="38" height="38" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="38" height="38" />
+  <img src="https://img.icons8.com/color/144/000000/ms-project.png" width="38" height="38" />
+  <img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/000000/external-agile-web-design-and-development-flatarticons-blue-flatarticons.png" width="38" height="38" />
+   <img src="https://img.icons8.com/color/144/000000/power-bi.png" width="38" height="38"/>
+</p>
