@@ -13,10 +13,14 @@
 👫:dog2: Apaixonada na vida de casada e na filha de 4 patas;
 
 
+### ​Estudando:
+
 <p align="left">
-  <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="38" height="38" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="38" height="38" />
-  <img src="https://img.icons8.com/color/144/000000/ms-project.png" width="38" height="38" />
-  <img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/000000/external-agile-web-design-and-development-flatarticons-blue-flatarticons.png" width="38" height="38" />
-   <img src="https://img.icons8.com/color/144/000000/power-bi.png" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="38" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38">
+  <img src="https://img.icons8.com/color/144/000000/bootstrap.png" width="38" height="38"/>
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" width="38" height="38"/>
+  
+  
 </p>
