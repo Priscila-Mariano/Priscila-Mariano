@@ -52,7 +52,7 @@ Conhecimentos em Marketing digital:
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ello-logo.png" width="38" height="38" color=white/> https://ello.co/priscila-mariano
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://https://www.linkedin.com/in/priscila-mariano-a43474106/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-mariano-a43474106/)
 
 
 ### Email
