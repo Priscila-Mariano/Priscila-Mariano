@@ -14,6 +14,11 @@
 
 👫:dog2: Apaixonada na vida de casada e na filha de 4 patas;
 
+### Ello repositório de imagens
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ello-logo.png" width="38" height="38" color=white/> https://ello.co/priscila-mariano
+
+### Um exemplo de trabalho que tenho com WordPress (Já já subo outros)
+https://drive.google.com/file/d/1PxBb8riuJ6sXRm9vT23NbMo91I6OIIPz/view?usp=sharing
 
 ### ​Estudando:
 
@@ -49,10 +54,6 @@ Conhecimentos em Marketing digital:
 ### Social
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-mariano-a43474106/)
-
-
-### Ello repositório de imagens
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ello-logo.png" width="38" height="38" color=white/> https://ello.co/priscila-mariano
 
 
 ### Email
