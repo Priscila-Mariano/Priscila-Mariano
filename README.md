@@ -31,6 +31,7 @@ Conhecimentos em Front End:
 Conhecimentos em Design: 
 - Photoshop. 
 - Illustrator.
+- Corel Draw.
 
 Prototipagem: 
 - Figma
