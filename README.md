@@ -14,6 +14,9 @@
 
 👫:dog2: Apaixonada na vida de casada e na filha de 4 patas;
 
+### Figma - repositório mobile e desktop
+https://github.com/Priscila-Mariano/repositorio-figma
+
 ### Ello repositório de imagens
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ello-logo.png" width="38" height="38" color=white/> https://ello.co/priscila-mariano
 
