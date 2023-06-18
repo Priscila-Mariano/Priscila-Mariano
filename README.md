@@ -36,6 +36,7 @@ Conhecimentos em Design:
 - Illustrator.
 - Corel Draw.
 - Indesign.
+- Canva.
 
 Edição de vídeos:
 - Premiere.
