@@ -35,6 +35,11 @@ Conhecimentos em Design:
 - Photoshop. 
 - Illustrator.
 - Corel Draw.
+- Indesign.
+
+Edição de vídeos:
+- Premiere.
+- After Effects.
 
 Prototipagem: 
 - Figma
